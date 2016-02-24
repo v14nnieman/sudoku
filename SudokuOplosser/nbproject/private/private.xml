@@ -3,10 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/SudokuOplosser/Functies/ArrayNaarTabel.php</file>
-            <file>file:/C:/xampp/htdocs/SudokuOplosser/index.php</file>
-            <file>file:/C:/xampp/htdocs/SudokuOplosser/Functies/MinnetjesNaarNiks.php</file>
-            <file>file:/C:/xampp/htdocs/SudokuOplosser/opmaak.css</file>
+            <file>file:/C:/xampp/htdocs/SudokuOplosser/SudokuOplosser/Functies/BestandToevoegen.php</file>
+            <file>file:/C:/xampp/htdocs/SudokuOplosser/SudokuOplosser/Functies/ArrayNaarTabel.php</file>
+            <file>file:/C:/xampp/htdocs/SudokuOplosser/SudokuOplosser/Functies/PrintjQueryEnPHPOpmaak.php</file>
         </group>
     </open-files>
 </project-private>

@@ -12,13 +12,12 @@ function voegBestandToe() {
         }
     }
     else {
-        $woordenzoeker = file("Woordzoekers/woordzoeker.txt");
+        $Sudoku = file("Sudoku.txt");
     }
-    return $woordenzoeker;
-    $woordenzoeker = file("Woordzoekers/woordzoeker.txt");
+    return $Sudoku;
 }
 
-function bestandtoevoegenaanenuit (){
+/**function bestandtoevoegenaanenuit (){
     echo '<form action="Output.php" method="post" enctype="multipart/form-data">
             <br/>
             <label for="file">Zoek een bestand:</label>
@@ -26,3 +25,4 @@ function bestandtoevoegenaanenuit (){
             <input type="submit" value="Submit">
         </form>';
 }
+*/

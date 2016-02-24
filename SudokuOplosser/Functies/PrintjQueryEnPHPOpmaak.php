@@ -1,5 +1,5 @@
 <?php
-
+/**
 function jQueryEnPhpOpmaak($gevondenWoordenCoordinaten, $zoekwoorden) {
     include "Functies/opmaak.php";
     klikKleuren($zoekwoorden);
@@ -42,3 +42,5 @@ function jQueryEnPhpOpmaak($gevondenWoordenCoordinaten, $zoekwoorden) {
         }
     }
 }
+*/
+?>
